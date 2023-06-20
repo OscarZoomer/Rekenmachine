@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-C:\Users\oszoo\Documents\projects\Rekenmachine\Rekenmachine\obj\Debug\
+C:\Users\oszoo\Documents\projects\Rekenmachine\Rekenmachine\obj\Release\
 Rekenmachine
 none
 false
-DEBUG;TRACE
+TRACE
 C:\Users\oszoo\Documents\projects\Rekenmachine\Rekenmachine\App.xaml
 1219584333
 
